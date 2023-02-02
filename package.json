@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-accessors",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Return element accessors for a provided array-like object.",
   "license": "Apache-2.0",
   "author": {
