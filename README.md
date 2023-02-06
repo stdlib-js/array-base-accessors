@@ -41,7 +41,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@esm/index.mjs';
+import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@v0.0.2-esm/index.mjs';
 ```
 
 #### accessors( x )
@@ -107,7 +107,7 @@ var fcns = obj.accessors;
 
 import Complex64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex64@esm/index.mjs';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@esm/index.mjs';
-import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@esm/index.mjs';
+import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@v0.0.2-esm/index.mjs';
 
 // Create an array:
 var x = new Complex64Array( zeroTo( 10 ) );
