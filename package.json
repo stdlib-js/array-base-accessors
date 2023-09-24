@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-accessors",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Return element accessors for a provided array-like object.",
   "license": "Apache-2.0",
   "author": {
@@ -37,25 +37,25 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-base-accessor-getter": "^0.0.1",
-    "@stdlib/array-base-accessor-setter": "^0.0.1",
-    "@stdlib/array-base-assert-is-accessor-array": "^0.0.1",
-    "@stdlib/array-base-getter": "^0.0.1",
-    "@stdlib/array-base-setter": "^0.0.1",
-    "@stdlib/array-dtype": "^0.0.6",
-    "@stdlib/types": "^0.0.14"
+    "@stdlib/array-base-accessor-getter": "^0.1.0",
+    "@stdlib/array-base-accessor-setter": "^0.1.0",
+    "@stdlib/array-base-assert-is-accessor-array": "^0.1.0",
+    "@stdlib/array-base-getter": "^0.1.0",
+    "@stdlib/array-base-setter": "^0.1.0",
+    "@stdlib/array-dtype": "^0.1.0",
+    "@stdlib/types": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/array-base-zero-to": "^0.0.6",
-    "@stdlib/array-base-zeros": "^0.0.2",
-    "@stdlib/array-complex128": "^0.0.6",
-    "@stdlib/array-complex64": "^0.0.6",
-    "@stdlib/array-float64": "^0.0.6",
-    "@stdlib/assert-is-plain-object": "^0.0.7",
-    "@stdlib/bench": "^0.0.12",
-    "@stdlib/complex-float32": "^0.0.7",
-    "@stdlib/complex-imagf": "^0.0.1",
-    "@stdlib/complex-realf": "^0.0.1",
+    "@stdlib/array-base-zero-to": "^0.1.0",
+    "@stdlib/array-base-zeros": "^0.1.0",
+    "@stdlib/array-complex128": "^0.1.0",
+    "@stdlib/array-complex64": "^0.1.0",
+    "@stdlib/array-float64": "^0.1.0",
+    "@stdlib/assert-is-plain-object": "^0.1.0",
+    "@stdlib/bench": "^0.1.0",
+    "@stdlib/complex-float32": "^0.1.0",
+    "@stdlib/complex-imagf": "^0.1.0",
+    "@stdlib/complex-realf": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
