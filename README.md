@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@deno/mod.js';
+import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@v0.1.0-deno/mod.js';
 ```
 
 #### accessors( x )
@@ -113,7 +113,7 @@ var fcns = obj.accessors;
 ```javascript
 import Complex64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex64@deno/mod.js';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@deno/mod.js';
-import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@deno/mod.js';
+import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@v0.1.0-deno/mod.js';
 
 // Create an array:
 var x = new Complex64Array( zeroTo( 10 ) );
