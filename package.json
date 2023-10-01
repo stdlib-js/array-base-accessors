@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "@stdlib/array-base-zero-to": "^0.1.0",
-    "@stdlib/array-base-zeros": "^0.1.0",
+    "@stdlib/array-base-zeros": "^0.1.1",
     "@stdlib/array-complex128": "^0.1.0",
     "@stdlib/array-complex64": "^0.1.0",
     "@stdlib/array-float64": "^0.1.0",
