@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-accessors/tags). For example,
+
+```javascript
 import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@v0.2.0-deno/mod.js';
 ```
 
@@ -113,7 +118,7 @@ var fcns = obj.accessors;
 ```javascript
 import Complex64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex64@deno/mod.js';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@deno/mod.js';
-import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@v0.2.0-deno/mod.js';
+import accessors from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-accessors@deno/mod.js';
 
 // Create an array:
 var x = new Complex64Array( zeroTo( 10 ) );
