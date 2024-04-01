@@ -46,10 +46,10 @@
     "@stdlib/types": "^0.3.2"
   },
   "devDependencies": {
-    "@stdlib/array-base-zero-to": "^0.2.0",
+    "@stdlib/array-base-zero-to": "^0.2.1",
     "@stdlib/array-base-zeros": "^0.2.1",
-    "@stdlib/array-complex128": "^0.2.0",
-    "@stdlib/array-complex64": "^0.2.0",
+    "@stdlib/array-complex128": "^0.2.1",
+    "@stdlib/array-complex64": "^0.2.1",
     "@stdlib/array-float64": "^0.2.1",
     "@stdlib/assert-is-plain-object": "^0.2.1",
     "@stdlib/complex-float32": "^0.2.1",
