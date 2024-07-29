@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.2">
 
-## Unreleased (2024-07-17)
+## 0.2.2 (2024-07-29)
 
 <section class="commits">
 
@@ -41,6 +41,51 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 <section class="release" id="v0.2.1">
 
 ## 0.2.1 (2024-02-25)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
+
+## 0.2.0 (2024-02-15)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`dea49e0`](https://github.com/stdlib-js/stdlib/commit/dea49e03ab5571233e3da26835a6a6d3256d5737) - **docs:** use single quotes in require calls instead of backticks _(by Philipp Burckhardt)_
+-   [`c5a68f2`](https://github.com/stdlib-js/stdlib/commit/c5a68f2cd116578b2964b05681bd75b33da39607) - **build:** remove tslint directives _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2023-09-24)
 
 <section class="features">
 
@@ -81,8 +126,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
--   [`dea49e0`](https://github.com/stdlib-js/stdlib/commit/dea49e03ab5571233e3da26835a6a6d3256d5737) - **docs:** use single quotes in require calls instead of backticks _(by Philipp Burckhardt)_
--   [`c5a68f2`](https://github.com/stdlib-js/stdlib/commit/c5a68f2cd116578b2964b05681bd75b33da39607) - **build:** remove tslint directives _(by Philipp Burckhardt)_
 -   [`9ad6e2a`](https://github.com/stdlib-js/stdlib/commit/9ad6e2a5d18d9ced0565de200e57129551298dd1) - **fix:** change default type to `unknown` _(by Athan Reines)_
 -   [`14bacb3`](https://github.com/stdlib-js/stdlib/commit/14bacb3cbfced427bcbadae7cbc649a62bb62b69) - **fix:** update import path for `Collection` type definition _(by Athan Reines)_
 -   [`32a2827`](https://github.com/stdlib-js/stdlib/commit/32a282799ffd272d2a0554e81755a14923564e51) - **fix:** update import paths for complex type defs _(by Athan Reines)_
@@ -99,14 +142,33 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 1 person contributed to this release. Thank you to this contributor:
 
 -   Athan Reines
--   Philipp Burckhardt
 
 </section>
 
 <!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.2">
+
+## 0.0.2 (2023-02-06)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.1">
+
+## 0.0.1 (2023-02-02)
+
+No changes reported for this release.
 
 </section>
 
