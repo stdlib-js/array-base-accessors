@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7b347fa`](https://github.com/stdlib-js/stdlib/commit/7b347facd7397468a643699e102d2c3b6e379198) - **style:** resolve lint failure _(by Athan Reines)_
 -   [`72af2aa`](https://github.com/stdlib-js/stdlib/commit/72af2aacb1ff59c6e96de88b5994790ca756aca4) - **chore:** fix spelling errors in `array` [(#9768)](https://github.com/stdlib-js/stdlib/pull/9768) _(by Shubham, Philipp Burckhardt)_
 -   [`f774fb9`](https://github.com/stdlib-js/stdlib/commit/f774fb91d2d1704ee91588613a0ac0d68c766c6c) - **bench:** refactor to use string interpolation in `array/base/accessors` [(#8665)](https://github.com/stdlib-js/stdlib/pull/8665) _(by Rohit R Bhat)_
 -   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
