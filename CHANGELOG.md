@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-01)
+## Unreleased (2026-01-16)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#9767](https://github.com/stdlib-js/stdlib/issues/9767)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`72af2aa`](https://github.com/stdlib-js/stdlib/commit/72af2aacb1ff59c6e96de88b5994790ca756aca4) - **chore:** fix spelling errors in `array` [(#9768)](https://github.com/stdlib-js/stdlib/pull/9768) _(by Shubham, Philipp Burckhardt)_
 -   [`f774fb9`](https://github.com/stdlib-js/stdlib/commit/f774fb91d2d1704ee91588613a0ac0d68c766c6c) - **bench:** refactor to use string interpolation in `array/base/accessors` [(#8665)](https://github.com/stdlib-js/stdlib/pull/8665) _(by Rohit R Bhat)_
 -   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`abf0407`](https://github.com/stdlib-js/stdlib/commit/abf040787f6598438b0100a729a8331b7f80f62f) - **chore:** resolve lint errors in TS files _(by Philipp Burckhardt)_
@@ -28,11 +41,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
 -   Rohit R Bhat
+-   Shubham
 
 </section>
 
