@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-05-06)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`923db7f`](https://github.com/stdlib-js/stdlib/commit/923db7f63656e408cf390029bd7985b4e736b518) - **docs:** improve doctests for complex number instances in `array/base/accessors` [(#11970)](https://github.com/stdlib-js/stdlib/pull/11970) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
